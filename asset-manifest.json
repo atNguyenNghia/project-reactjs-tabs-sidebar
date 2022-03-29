@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-reactjs-tabs-sidebar/static/css/main.ac11a5d2.css",
+    "main.js": "/project-reactjs-tabs-sidebar/static/js/main.38124960.js",
+    "static/js/787.51c51c07.chunk.js": "/project-reactjs-tabs-sidebar/static/js/787.51c51c07.chunk.js",
+    "index.html": "/project-reactjs-tabs-sidebar/index.html",
+    "main.ac11a5d2.css.map": "/project-reactjs-tabs-sidebar/static/css/main.ac11a5d2.css.map",
+    "main.38124960.js.map": "/project-reactjs-tabs-sidebar/static/js/main.38124960.js.map",
+    "787.51c51c07.chunk.js.map": "/project-reactjs-tabs-sidebar/static/js/787.51c51c07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac11a5d2.css",
+    "static/js/main.38124960.js"
+  ]
+}
